@@ -1,8 +1,10 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    [SerializeField] private ArtifactUIManager artifactUIManager;
     [SerializeField] private float moveSpeed = 5f;
     private Vector2 movementInput;
     private Rigidbody2D rb;
@@ -11,6 +13,8 @@ public class PlayerController : MonoBehaviour
     private InputAction moveAction;
     private InputAction interactAction;
     private InputAction exitAction;
+    private bool isNearArtifact = false;
+    private GameObject currentArtifact;
 
     private void Awake()
     {
@@ -18,7 +22,7 @@ public class PlayerController : MonoBehaviour
         playerInput = GetComponent<PlayerInput>();
 
         moveAction = playerInput.actions["Move"];
-        interactAction = playerInput.actions["Interact"];
+        interactAction = playerInput.actions["Interactive"];
         exitAction = playerInput.actions["Exit"];
     }
 
@@ -34,6 +38,24 @@ public class PlayerController : MonoBehaviour
         exitAction.performed -= OnExit;
     }
 
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Artifact"))
+        {
+            isNearArtifact = true;
+            currentArtifact = other.gameObject;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Artifact"))
+        {
+            isNearArtifact = false;
+            currentArtifact = null;
+        }
+    }
+
     private void Update()
     {
         movementInput = moveAction.ReadValue<Vector2>();
@@ -46,14 +68,18 @@ public class PlayerController : MonoBehaviour
 
     private void OnInteract(InputAction.CallbackContext context)
     {
-        // Тут можно делать Raycast или проверку триггера
-        Debug.Log("Interact pressed!");
-        // Пример: открыть UI с информацией об артефакте
+        if (isNearArtifact && currentArtifact != null)
+        {
+            var artifact = currentArtifact.GetComponent<Artifact>();
+            if (artifact != null)
+            {
+                artifactUIManager.ShowArtifact(artifact.data);
+            }
+        }
     }
 
     private void OnExit(InputAction.CallbackContext context)
     {
-        Debug.Log("Exit pressed!");
-        // Пример: закрыть UI с информацией
+        artifactUIManager.HidePanel();
     }
 }
