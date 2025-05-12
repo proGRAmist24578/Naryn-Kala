@@ -21,4 +21,16 @@ public class ArtifactUIManager : MonoBehaviour
     {
         panel.SetActive(false);
     }
+
+    public Animator artifactPanelAnimator;
+
+    public void OpenArtifactPanel()
+    {
+        artifactPanelAnimator.SetTrigger("Open");
+    }
+
+    public void CloseArtifactPanel()
+    {
+        artifactPanelAnimator.SetTrigger("Close");
+    }
 }
