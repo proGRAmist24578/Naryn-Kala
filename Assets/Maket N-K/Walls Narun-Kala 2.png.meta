@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 186287337cb75400f87db6399779e659
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4357289180167342522
+    second: Walls Narun-Kala 2_0
+  - first:
+      213: 3292184136190465676
+    second: Walls Narun-Kala 2_1
+  - first:
+      213: 7369333253742469560
+    second: Walls Narun-Kala 2_2
+  - first:
+      213: 2735531087984424126
+    second: Walls Narun-Kala 2_3
+  - first:
+      213: 8108636530206047019
+    second: Walls Narun-Kala 2_4
+  - first:
+      213: -8679593912960104497
+    second: Walls Narun-Kala 2_5
+  - first:
+      213: 2938182319651784904
+    second: Walls Narun-Kala 2_6
+  - first:
+      213: -8678595366886935204
+    second: Walls Narun-Kala 2_7
+  - first:
+      213: 4871273434860196575
+    second: Walls Narun-Kala 2_8
+  - first:
+      213: -2551393907367432856
+    second: Walls Narun-Kala 2_9
+  - first:
+      213: 4218331098063285039
+    second: Walls Narun-Kala 2_10
+  - first:
+      213: 2597615614071727585
+    second: Walls Narun-Kala 2_11
+  - first:
+      213: 2489506436543029435
+    second: Walls Narun-Kala 2_12
+  - first:
+      213: -7512644365300066262
+    second: Walls Narun-Kala 2_13
+  - first:
+      213: -1488513123407476645
+    second: Walls Narun-Kala 2_14
+  - first:
+      213: 992983797131523931
+    second: Walls Narun-Kala 2_15
+  - first:
+      213: -7734901634158681216
+    second: Walls Narun-Kala 2_16
+  - first:
+      213: -78174475890967209
+    second: Walls Narun-Kala 2_17
+  - first:
+      213: 4774435492232917498
+    second: Walls Narun-Kala 2_18
+  - first:
+      213: 4918217351089217317
+    second: Walls Narun-Kala 2_19
+  - first:
+      213: 3170507729919185805
+    second: Walls Narun-Kala 2_20
+  - first:
+      213: 2705114413353487787
+    second: Walls Narun-Kala 2_21
+  - first:
+      213: 895265586228994071
+    second: Walls Narun-Kala 2_22
+  - first:
+      213: -8067142907074808930
+    second: Walls Narun-Kala 2_23
+  - first:
+      213: 3597811951939825681
+    second: Walls Narun-Kala 2_24
+  - first:
+      213: 4691289632568209240
+    second: Walls Narun-Kala 2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646f878939cc783c0800000000000000
+      internalID: -4357289180167342522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861fc4770030bd20800000000000000
+      internalID: 3292184136190465676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 220
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b12bc4cc81254660800000000000000
+      internalID: 7369333253742469560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 220
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb47953f70f86f520800000000000000
+      internalID: 2735531087984424126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 210
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bffab76f9a78070800000000000000
+      internalID: 8108636530206047019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 198
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7ce579253eb8780800000000000000
+      internalID: -8679593912960104497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c88d28a04586c820800000000000000
+      internalID: 2938182319651784904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 176
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557a57be7f6f8780800000000000000
+      internalID: -8678595366886935204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 145
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd293a0416d3a9340800000000000000
+      internalID: 4871273434860196575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86da44552c0a79cd0800000000000000
+      internalID: -2551393907367432856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 112
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bab05b8c58a8a30800000000000000
+      internalID: 4218331098063285039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5e0c363a59c0420800000000000000
+      internalID: 2597615614071727585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 144
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb022300ae08c8220800000000000000
+      internalID: 2489506436543029435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a281372e0c9bdb790800000000000000
+      internalID: -7512644365300066262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b584ac3633db75be0800000000000000
+      internalID: -1488513123407476645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b573ebf9089c7cd00800000000000000
+      internalID: 992983797131523931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083226be1fb18a490800000000000000
+      internalID: -7734901634158681216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 51
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d34067ab44aeef0800000000000000
+      internalID: -78174475890967209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 51
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af17f8db8c3324240800000000000000
+      internalID: 4774435492232917498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fd5db7f94014440800000000000000
+      internalID: 4918217351089217317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 69
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8396777bf7effb20800000000000000
+      internalID: 3170507729919185805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad49b40a3f7a8520800000000000000
+      internalID: 2705114413353487787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710afceae4f9c6c00800000000000000
+      internalID: 895265586228994071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e937e7f7440cb0090800000000000000
+      internalID: -8067142907074808930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110370488eefde130800000000000000
+      internalID: 3597811951939825681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walls Narun-Kala 2_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f63b7b01fca1140800000000000000
+      internalID: 4691289632568209240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2395625ca0dae4fb099d8c25b81eb6d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Walls Narun-Kala 2_0: -4357289180167342522
+      Walls Narun-Kala 2_1: 3292184136190465676
+      Walls Narun-Kala 2_10: 4218331098063285039
+      Walls Narun-Kala 2_11: 2597615614071727585
+      Walls Narun-Kala 2_12: 2489506436543029435
+      Walls Narun-Kala 2_13: -7512644365300066262
+      Walls Narun-Kala 2_14: -1488513123407476645
+      Walls Narun-Kala 2_15: 992983797131523931
+      Walls Narun-Kala 2_16: -7734901634158681216
+      Walls Narun-Kala 2_17: -78174475890967209
+      Walls Narun-Kala 2_18: 4774435492232917498
+      Walls Narun-Kala 2_19: 4918217351089217317
+      Walls Narun-Kala 2_2: 7369333253742469560
+      Walls Narun-Kala 2_20: 3170507729919185805
+      Walls Narun-Kala 2_21: 2705114413353487787
+      Walls Narun-Kala 2_22: 895265586228994071
+      Walls Narun-Kala 2_23: -8067142907074808930
+      Walls Narun-Kala 2_24: 3597811951939825681
+      Walls Narun-Kala 2_25: 4691289632568209240
+      Walls Narun-Kala 2_3: 2735531087984424126
+      Walls Narun-Kala 2_4: 8108636530206047019
+      Walls Narun-Kala 2_5: -8679593912960104497
+      Walls Narun-Kala 2_6: 2938182319651784904
+      Walls Narun-Kala 2_7: -8678595366886935204
+      Walls Narun-Kala 2_8: 4871273434860196575
+      Walls Narun-Kala 2_9: -2551393907367432856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
