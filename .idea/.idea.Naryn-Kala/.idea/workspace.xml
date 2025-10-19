@@ -5,17 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7311aee3-9e44-4b7f-af1d-4af8f5d757d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Naryn-Kala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Naryn-Kala/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artifacts/Screenshot 2025-04-22 094156.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artifacts/Screenshot 2025-04-22 094156.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artifacts/Screenshot 2025-04-22 094254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Artifacts/Screenshot 2025-04-22 094254.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BasicMechanics.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BasicMechanics.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Artifact_2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Artifact_2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artifacts/Zindan.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artifacts/Zindan.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ArtifactsPhoto/Снимок экрана 2025-06-12 в 18.18.23.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ArtifactsPhoto/Снимок экрана 2025-06-12 в 18.18.23.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Main Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu12.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu13.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu13.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu14.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu14.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu15.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu15.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu16.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu16.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu17.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu17.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu18.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu18.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu19.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu19.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu20.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu20.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu21.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu21.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu22.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu22.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu23.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu23.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu24.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu24.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu25.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu25.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu26.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu26.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu27.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu27.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu28.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu28.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu29.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu29.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu30.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu30.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu31.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu31.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu32.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu32.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu33.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu33.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu34.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu34.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu35.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu35.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu36.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu36.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu37.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu37.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu38.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu38.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu39.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu39.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu40.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu40.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu41.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu41.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu42.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu42.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu43.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu43.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu44.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu44.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu45.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu45.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu46.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu46.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu47.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu47.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu48.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu48.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu49.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu49.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu50.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu50.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu51.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu51.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu52.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu52.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu53.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu53.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu54.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu54.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu55.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu55.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu56.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu56.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu57.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu57.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu58.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu58.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu59.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu59.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu60.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu60.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu61.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu61.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu62.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu62.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu63.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu63.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu64.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu64.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu8.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI-Main menu/Phone main menu9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +93,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Naryn-Kala__design",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Naryn-Kala__design&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/ali_gadjiev/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/ali_gadjiev/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/ali_gadjiev/Library/Application Support/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/ali_gadjiev/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/ali_gadjiev/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/ali_gadjiev/Library/Application Support/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Standalone Player.Start Unity">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$PROJECT_DIR$/../Downloads/v2/6000.0.39f1/Unity.app/Contents/MacOS/Unity" />
